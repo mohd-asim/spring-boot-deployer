@@ -48,6 +48,7 @@ This is a simple Spring Boot application that returns "Hello, World!" at the `/h
 
 3. Access the application at `http://localhost:8080/hello`.
 
+
 ## Flow Diagram
 
 ```plaintext
@@ -93,3 +94,6 @@ spring-boot-demo
 ## License
 
 This project is licensed under the MIT License.
+=======
+- The Docker image is based on the official OpenJDK 11 image.
+
